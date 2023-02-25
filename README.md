@@ -16,3 +16,5 @@ docker build -t my-app:1.0 .
 ```
 docker-compose -f container.yaml up -d
 ```
+
+You can ignore '**run.temp**' file it contain docker run script which helps in using mongo and mongo-express service during development phase.
