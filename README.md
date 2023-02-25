@@ -2,7 +2,7 @@
 # Docker-Container-Demo
 How to containerise your Node JS application , Along with mongo and mongo-express container
 
-CLONE [Docker-Container-Demo](https://github.com/joyal007/Docker-Container-Demo)
+:octocat: CLONE [Docker-Container-Demo](https://github.com/joyal007/Docker-Container-Demo) Repository 📁
 
 '**app**' directory contain Node JS application which is to be containerised.
 
