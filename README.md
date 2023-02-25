@@ -6,7 +6,7 @@ How to containerise your Node JS application , Along with mongo and mongo-expres
 
 **app** directory contain Node JS application which is to be containerised.
 
-> Before building image don't forget to run ```npm i``` to generate node_modules
+> Before building image don't forget to run ```npm i``` to generate node_modules of Node application.
 
 Run below cmmd to build an image Node JS application
 ```
